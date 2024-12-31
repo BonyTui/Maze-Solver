@@ -1,0 +1,3 @@
+Algorithm,Average Reward,Success Rate (%),Average Learning Speed (Steps per Episode)
+Q-learning,1.862,96.6,17.716
+SARSA,1.429,96.39999999999999,18.047
